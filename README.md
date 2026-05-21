@@ -18,21 +18,6 @@ A simple full stack blog application built using ReactJS and NodeJS.
 - HTML
 - CSS
 
-## Folder Structure
-
-devconnect-blog/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── index.js
-│
-├── backend/
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
 
 ## Installation
 
